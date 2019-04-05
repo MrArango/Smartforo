@@ -1,0 +1,3 @@
+--Reiniciar llave primaria y datos de una tabla
+
+TRUNCATE TABLE [TABLENAME]
